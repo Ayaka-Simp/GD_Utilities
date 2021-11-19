@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/Veemo-9785/GD_Utilities#readme",
   "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
     "axios": "^0.24.0",
+    "discord-api-types": "^0.24.0",
     "discord.js": "^13.3.1",
     "nodemon": "^2.0.15",
     "ts-node": "^10.4.0",
